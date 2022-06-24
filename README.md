@@ -1,2 +1,12 @@
 # DEVIL-CLONE
 THIS IS 2006-2009 RANDOM OLD ACCOUNT CLONER
+rm -rf DEVIL-CLONE
+
+git pull
+
+git clone 
+https://github.com/C4LLM3D3V1L/DEVIL-CLONE
+
+cd DEVIL-CLONE
+
+python OK-RUN.py
