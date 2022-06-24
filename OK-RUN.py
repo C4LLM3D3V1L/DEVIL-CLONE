@@ -1,6 +1,6 @@
 import os
 os.system("git pull")
-os.system("termux-setup-stroage")
+os.system("termux-setup-storage")
 
 import WOW
 
